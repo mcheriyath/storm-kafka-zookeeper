@@ -12,7 +12,7 @@ Storm clustering environment on Docker, ZooKeeper and Kafka included. The quicke
 
 This work is based on https://github.com/wurstmeister/storm-docker and https://github.com/wurstmeister/kafka-docker. Kudos to wurstmeister.
 
-**Note the Docker version used to was 1.2.0, Storm version used was 0.9.2, Kafka version used was 0.8.1.1 (SCALA 2.9.2), ZooKeeper version used was 3.4.5.**
+**Note the Docker version used to was 1.2.0, Storm version used was 0.9.1, Kafka version used was 0.8.1.1 (SCALA 2.9.2), ZooKeeper version used was zookeeper_3.4.5+cdh5.1.2+31.**
 
 ## TL;DR
 
