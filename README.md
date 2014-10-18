@@ -2,7 +2,7 @@ THANK YOU bryantsai
 
 https://github.com/bryantsai/storm-docker
 
-###### notes Bryan's from  Repo ########
+###### notes from Bryan's  Repo ########
 
 
 # Storm-kafka-zookeeper on Docker
